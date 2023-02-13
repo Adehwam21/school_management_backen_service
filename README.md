@@ -3,4 +3,4 @@ A school management backend service built with Node JS which uses the Express JS
 
 Functionalities:
 a) Get student details by student id.
-b) Register new student by supplyind student details.
+b) Register new student by supplying student details.
