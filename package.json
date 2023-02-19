@@ -1,0 +1,25 @@
+{
+  "name": "school-system-backend",
+  "version": "1.0.0",
+  "description": "A school management system api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adehwam21/school_management_backen_service.git"
+  },
+  "author": "Kudadjie Aaron Katey 10964242",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adehwam21/school_management_backen_service/issues"
+  },
+  "homepage": "https://github.com/Adehwam21/school_management_backen_service#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.9.2",
+    "nodemon": "^2.0.20"
+  }
+}
